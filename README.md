@@ -1,9 +1,4 @@
-# Exercise-05f-Animation
-Exercise for MSCH-C220, 5 November 2020
-
----
-
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-05f-Animation. Edit the LICENSE and replace BL-MSCH-C220-F20 with your full name. Commit your changes.
+COME BACK TO THIS ONE AFTER OTHERS ARE COMPLETE
 
 Clone the repository to a Local Path on your computer.
 
